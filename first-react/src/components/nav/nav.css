@@ -1,0 +1,8 @@
+.nav{
+    padding: 20px 20px 20px 20px;
+    background-color: lightcoral;
+    max-width: 120px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
